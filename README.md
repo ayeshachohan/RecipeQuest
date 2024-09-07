@@ -91,10 +91,9 @@ git clone https://github.com/your-username/recipequest.git
 # Navigate into the project directory
 cd recipequest
 
-# Install dependencies
-pip install -r requirements.txt
+
 
 # Run the app
-python app.py
+streamlit run langgraph_recpieapp.py
 
 
