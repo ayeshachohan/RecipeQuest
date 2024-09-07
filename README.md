@@ -65,11 +65,11 @@ RecipeQuest is designed to:
 ---
 
 ## 🖼️ **Screenshots of the App**
-![App Screenshot 1](/Users/Dekll/Desktop/QuerySentiment/emumba/Week#3/RecpieQuest#1.png)
-![App Screenshot 2](URL_TO_IMAGE_2)
-![App Screenshot 3](URL_TO_IMAGE_3)
-![App Screenshot 4](URL_TO_IMAGE_4)
-![App Screenshot 5](URL_TO_IMAGE_5)
+![App Screenshot 1](https://github.com/ayeshachohan/RecipeQuest/blob/main/screenshots/RecpieQuest%231.png?raw=true)
+![App Screenshot 2](https://github.com/ayeshachohan/RecipeQuest/blob/main/screenshots/RecpieQuest%232.png?raw=true)
+![App Screenshot 3](https://github.com/ayeshachohan/RecipeQuest/blob/main/screenshots/RecpieQuest%233.png?raw=true)
+![App Screenshot 4](https://github.com/ayeshachohan/RecipeQuest/blob/main/screenshots/RecpieQuest%234.png?raw=true)
+![App Screenshot 5](https://github.com/ayeshachohan/RecipeQuest/blob/main/screenshots/RecpieQuest%235.png?raw=true)
 
 ---
 
